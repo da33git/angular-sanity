@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "backend"
+    "name": "angular-sanity"
   },
   "api": {
-    "projectId": "kgu5d2ud",
+    "projectId": "seae7dio",
     "dataset": "production"
   },
   "plugins": [
